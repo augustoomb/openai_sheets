@@ -1,0 +1,12 @@
+export OPENAI_API_KEY=""
+
+GITHUB_ID=
+GITHUB_SECRET=
+
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET="NuJwvKGdWusbLrj0TPXtuUxg/QLp2SyRIHO/OVR+UdY="
+
+DATABASE_URL="file:./dev.db"
+
+# This was inserted by `prisma init`:
+[object Promise]
